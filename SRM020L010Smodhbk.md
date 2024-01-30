@@ -111,15 +111,13 @@ If you successfully complete this course you will:
   tools including hypothesis testing, comparison of means, correlation,
   and regression;  
 - be critically reflective about the conduct of quantitative research
-  and be able to evaluate others’ research; and
+  and be able to evaluate others’ research; and  
 - import, clean and analyse a set of data; give a written explanation of
   the nature of the data, illustrate the data with appropriate
   visualisations; identify and explain patterns and relationships in the
   data; and discuss the significance of what you find.
 
 # Assessment Brief
-
-## Part 1 - Data Visualisation Portfolio
 
 **Hand in:** **2pm on Wednesday 1 May 2024**, via Turnitin on the module
 Moodle page.
@@ -377,8 +375,8 @@ dataset for the assignment, and we’ll walk through a number together
 during sessions, but the more practice you have in investigating
 statistical questions the better you’ll do!
 
-Face to face sessions are scheduled for 5:00 pm to 7:00 pm in DB 210, in
-alternate weeks, as listed below.
+Face to face sessions are scheduled for **5:00 pm to 7:00 pm in DB
+210**, in alternate weeks, as listed below.
 
 ## Week 1 - getting started, descriptive statistics, Jupyter and Pandas
 
@@ -413,8 +411,8 @@ how data can be visualised using Seaborn, another Python library.
 
 30/1 Indepednent study
 
-**Recommended readings:** Chapter 15 of Denscombe and OverDrive (2014);
-chapters 1 and 2 of Gignac (2019)
+**Recommended readings:** Chapter 15 of Denscombe (2014); chapters 1 and
+2 of Gignac (2019)
 
 **Dataset:** [2018 Nu3 Carbon Footprint
 Index](https://www.nu3.de/blogs/nutrition/food-carbon-footprint-index-2018)
@@ -601,7 +599,11 @@ trials, and have a good blog and podcast. The [Sutton
 Trust](https://www.suttontrust.com/) is another good source of
 quantitative research on education, as are the [National Foundation for
 Education Research (NFER)](https://www.nfer.ac.uk/) and Fisher Family
-Trust’s [Education Datalab](https://ffteducationdatalab.org.uk/).
+Trust’s [Education Datalab](https://ffteducationdatalab.org.uk/). The
+[UK Data
+Service](https://ukdataservice.ac.uk/find-data/browse/education/) has a
+limited collection of anonymised, raw data relevant to education
+research.
 
 ## Software
 
@@ -633,6 +635,14 @@ research methods: An investigative approach* (1 online resource (xii,
 subscription: SAGE research methods (Core)). Available at:
 <http://www.dawsonera.com/depp/reader/protected/external/AbstractView/S9781848608641>
 (Accessed: 29 January 2024).
+
+</div>
+
+<div id="ref-brooker2019" class="csl-entry">
+
+Brooker, P.D. (2019) *Programming with Python for Social Scientists*.
+1st edition. Los Angeles London New Delhi Singapore Washington, DC
+Melbourne: SAGE Publications Ltd.
 
 </div>
 
@@ -678,9 +688,8 @@ edition. London ; Routledge.
 
 <div id="ref-denscombe2014" class="csl-entry">
 
-Denscombe, M. and OverDrive, I. (2014) *The Good Research Guide*.
-\[Place of publication not identified\]: McGraw-Hill Education.
-Available at:
+Denscombe, M. (2014) *The Good Research Guide*. \[Place of publication
+not identified\]: McGraw-Hill Education. Available at:
 [https://roe.idm.oclc.org/login?url=https://www-vlebooks-com.roe.idm.oclc.org/Vleweb/Product/Index/696818?page=0&uid=^u](https://roe.idm.oclc.org/login?url=https://www-vlebooks-com.roe.idm.oclc.org/Vleweb/Product/Index/696818?page=0&uid=^u).
 
 </div>
@@ -768,7 +777,7 @@ Transactions on Computing Education*, 20(1), pp. 4:1–4:28. Available at:
 
 <div id="ref-kirk2019" class="csl-entry">
 
-KIRK, A. (2019) *DATA VISUALISATION: A handbook for data driven design.*
+Kirk, A. (2019) *Data visualisation: A handbook for data driven design.*
 S.l.: SAGE PUBLICATIONS.
 
 </div>
@@ -863,6 +872,14 @@ January 2024).
 
 Spiegelhalter, D.J. (2019) *The art of statistics: Learning from data*.
 London UK: Pelican, an imprint of Penguin Books.
+
+</div>
+
+<div id="ref-stevens1946" class="csl-entry">
+
+Stevens, S.S. (1946) ‘On the Theory of Scales of Measurement’, *Science,
+New Series*, 103(2684), pp. 677–680. Available at:
+<http://www.jstor.org/stable/1671815>.
 
 </div>
 
