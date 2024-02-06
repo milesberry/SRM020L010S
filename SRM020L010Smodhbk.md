@@ -409,7 +409,7 @@ how data can be visualised using Seaborn, another Python library.
 
 ## Week 2 - Descriptive statistics
 
-30/1 Indepednent study
+30/1 Indepedent study
 
 **Recommended readings:** Chapter 15 of Denscombe (2014); chapters 1 and
 2 of Gignac (2019)
@@ -433,7 +433,7 @@ RPubs.
 
 6/2 Face to face
 
-**Recommended reading:** Chapters 17 and 25 of Cohen *et al.* (2018).
+**Recommended reading:** Chapters 17 and 24 of Cohen *et al.* (2018).
 
 **Dataset:** IT skills survey for initial teacher training students.
 
